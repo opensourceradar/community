@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Discussions
+    url: https://github.com/opensourceradar/community/discussions
+    about: Ask questions or discuss ideas here
+  - name: Documentation
+    url: https://opensourceradar.com/docs
+    about: Read our documentation
+  - name: Website
+    url: https://opensourceradar.com
+    about: Visit our main website
